@@ -48,7 +48,7 @@ Users should be able to:
 
 - I try out the simplest way to use <code>display: grid</code>. This challenge is perfect for me who just started really learning it since it is not tricky.
 
-- If I need to set <code>border-radius</code> to <code>main</code>. I also nedd to set up <code>overflow: hidden</code> to stop the childs from overflowing, or there will be extra little white space outside the corner of the <code>main</code>.
+- If I need to set <code>border-radius</code> to <code>main</code>, I also nedd to set up <code>overflow: hidden</code> to stop the childs from overflowing... or there will be extra little white space outside the corner of the <code>main</code>.
 ```css
 main{
     width: min(650px, 80%);
